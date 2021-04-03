@@ -8,3 +8,7 @@ func IsPrime(num int) bool {
 	}
 	return true
 }
+
+func retTrue() bool {
+	return true
+}
